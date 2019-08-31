@@ -1,0 +1,6 @@
+C:\Users\james\RiderProjects\UdpReceiver\UdpReceiver\bin\Debug\UdpReceiver.exe
+C:\Users\james\RiderProjects\UdpReceiver\UdpReceiver\bin\Debug\UdpReceiver.pdb
+C:\Users\james\RiderProjects\UdpReceiver\UdpReceiver\obj\Debug\UdpReceiver.csprojResolveAssemblyReference.cache
+C:\Users\james\RiderProjects\UdpReceiver\UdpReceiver\obj\Debug\UdpReceiver.csproj.CoreCompileInputs.cache
+C:\Users\james\RiderProjects\UdpReceiver\UdpReceiver\obj\Debug\UdpReceiver.exe
+C:\Users\james\RiderProjects\UdpReceiver\UdpReceiver\obj\Debug\UdpReceiver.pdb
