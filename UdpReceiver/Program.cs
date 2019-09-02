@@ -37,7 +37,7 @@ namespace UdpReceiver
                     // Send a test Datagram
                     UDPSocket c = new UDPSocket();
                     c.Client(args[0], port);
-                    c.Send("HostHunter is Awesome!");
+                    c.Send("HostHunter UDP Receiver is Awesome!");
                 }
                 catch (FormatException e)
                 {
